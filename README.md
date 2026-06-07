@@ -9,7 +9,7 @@ mkdir build
 cd build
 cmake ..
 cmake --build . --config Release
-.\/Release\/connect4.exe  # or ./connect4 on Unix
+
 ```
 
 Run:
