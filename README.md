@@ -1,4 +1,4 @@
-# connect-4-cli
+# Connect-4-CLI
 
 Simple Connect Four command-line game in C++.
 
