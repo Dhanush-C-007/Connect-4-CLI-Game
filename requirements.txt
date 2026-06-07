@@ -1,0 +1,7 @@
+# Minimal dependencies to build and run the C++ Connect Four CLI
+
+- CMake >= 3.12
+- A C++ compiler with C++17 support (GCC 7+/Clang 5+/MSVC 2017+)
+
+# On Windows: install MinGW-w64 or Visual Studio Build Tools to get a
+# C++17-capable compiler. No other tools are required.
